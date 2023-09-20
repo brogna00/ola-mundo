@@ -1,0 +1,15 @@
+.link {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    color: var(--cor-fonte-principal);
+}
+
+.link:hover{
+    color: var( --azul-medio);
+    transition-duration: 200ms;
+}
+
+.linkDestacado {
+    font-weight: 600;
+
+}
