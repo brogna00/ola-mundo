@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# Projeto React.js - Blog Pessoal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este repositório contém o código-fonte de um projeto React.js desenvolvido como parte de um curso na plataforma **Alura**. O projeto é um Blog Pessoal composto por duas páginas principais: a "Página Inicial" e a "Sobre Mim".
 
-## Available Scripts
+## Tecnologias Utilizadas
 
-In the project directory, you can run:
+- React.js
+- React Router DOM
 
-### `npm start`
+## Dependências
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Antes de começar, certifique-se de ter o [Node.js](https://nodejs.org/) instalado em seu ambiente de desenvolvimento antes de prosseguir.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Instalando as Dependências
 
-### `npm test`
+Para instalar as dependências do projeto, execute o seguinte comando no diretório raiz do projeto:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+npm install
+```
+## Iniciando Aplicação
 
-### `npm run build`
+Para iniciar a aplicação em um ambiente de desenvolvimento local, utilize o seguinte comando:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+npm start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Isso iniciará o servidor de desenvolvimento e abrirá a aplicação no seu navegador padrão. Você poderá acessar a aplicação em http://localhost:3000.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Dependência: React Router DOM
 
-### `npm run eject`
+O React Router DOM é uma biblioteca essencial para criar aplicativos React com navegação baseada em rotas. Ele nos permite definir rotas para diferentes componentes e garantir que a renderização dos componentes correspondentes ocorra conforme a URL muda.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Para adicionar o React Router DOM como dependência do seu projeto, você pode executar o seguinte comando:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+npm install react-router-dom
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Páginas
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+#### Página Inicial
 
-## Learn More
+A página inicial exibe uma lista de posts, cada um com um título, uma imagem de capa e um resumo. Os visitantes podem clicar em um post para ver o conteúdo completo.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### Página Sobre Mim
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+A página "Sobre Mim" apresenta informações sobre o desenvolvedor do blog. Você pode personalizar esta página com suas próprias informações.
 
-### Code Splitting
+## Contato
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+#### Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-### Analyzing the Bundle Size
+- [Meu email](brogna2000@gmail.com)
+- [Meu Linkedin](https://www.linkedin.com/in/joao-brogna/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+Desenvolvido por João Brogna
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Curso oferecido pela [Alura](https://www.alura.com.br/)
 
-### Deployment
+Ano: 2023
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
