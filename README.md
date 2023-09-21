@@ -2,6 +2,8 @@
 
 Este repositório contém o código-fonte de um projeto React.js desenvolvido como parte de um curso na plataforma **Alura**. O projeto é um Blog Pessoal composto por duas páginas principais: a "Página Inicial" e a "Sobre Mim".
 
+![image](https://github.com/brogna00/ola-mundo/assets/93611151/739fc9d0-91ce-453f-9fd0-64b9fcc74671)
+
 ## Tecnologias Utilizadas
 
 - React.js
