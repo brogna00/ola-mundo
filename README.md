@@ -46,9 +46,13 @@ npm install react-router-dom
 
 A página inicial exibe uma lista de posts, cada um com um título, uma imagem de capa e um resumo. Os visitantes podem clicar em um post para ver o conteúdo completo.
 
+![image](https://github.com/brogna00/ola-mundo/assets/93611151/feb533ee-ea68-4bfd-a76d-f1a064e6abfc)
+
 #### Página Sobre Mim
 
-A página "Sobre Mim" apresenta informações sobre o desenvolvedor do blog. Você pode personalizar esta página com suas próprias informações.
+A página "Sobre Mim" apresenta informações sobre o desenvolvedor do projeto (eu).
+
+![image](https://github.com/brogna00/ola-mundo/assets/93611151/a996afc9-dd1e-40d4-9410-f5c3f0a8e596)
 
 ## Contato
 
